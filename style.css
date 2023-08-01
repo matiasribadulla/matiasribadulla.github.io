@@ -1,0 +1,38 @@
+body{
+    background-image: url(/img/jonatan-pie-3l3RwQdHRHg-unsplash.jpg);
+    background-size: cover;
+    background-attachment: scroll;
+    color: rgb(255, 255, 0);
+    font-size: 0.5cm;
+}
+
+.header button{
+    background-color: black;
+    color: white;
+}
+
+#skills ul{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.secundary{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#Education table{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    width: 18cm;
+    height: 3cm;
+}
+
+#Proyects a{
+    color: rgb(255, 255, 0);
+}
+
+#Contact td{
+    width: 2.5cm;
+}
+
+.Logo{
+    color: #00acee;
+}
